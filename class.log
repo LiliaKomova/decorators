@@ -1,0 +1,10 @@
+FlatIterator
+2023-04-07 02:39:02.562164
+[([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}]
+<__main__.FlatIterator object at 0x7f7b80d9b400>
+
+FlatIterator
+2023-04-07 02:39:02.562468
+[([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}]
+<__main__.FlatIterator object at 0x7f7b80d9b550>
+
